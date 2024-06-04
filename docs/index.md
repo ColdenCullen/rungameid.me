@@ -1,3 +1,3 @@
-Launch CS2 by visiting: https://honeybunch.github.io/rungameid.me/?=730
+Example: launch Counter Strike 2 from http://rungameid.me/?730
 
 <script src="script.js"></script>
